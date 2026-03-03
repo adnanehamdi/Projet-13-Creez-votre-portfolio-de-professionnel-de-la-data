@@ -21,4 +21,4 @@ Vous trouverez dans ce répertoire l'intégralité des documents de la mission :
 * **Hébergement et partage du projet :** GitHub
 
 ---
-*Projet réalisé par Hamdi Adnane.*
+*Projet réalisé par Adnane Hamdi.*
