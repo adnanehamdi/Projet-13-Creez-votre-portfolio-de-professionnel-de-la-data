@@ -17,7 +17,7 @@ Vous trouverez dans ce répertoire l'intégralité des documents de la mission :
 ## 🛠️ Outils & Technologies utilisés
 * **Data Visualisation :** Power BI
 * **Organisation & Mind Mapping :** Miro
-* **Formation vidéo :** Loom
+* **Formation vidéo :** Outil Capture d'écran Windows
 * **Hébergement et partage du projet :** GitHub
 
 ---
