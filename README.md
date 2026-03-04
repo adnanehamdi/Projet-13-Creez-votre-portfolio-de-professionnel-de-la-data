@@ -11,7 +11,7 @@ Aéroworld m'a missionné pour structurer ma démarche de consultant Data. L'obj
 Vous trouverez dans ce répertoire l'intégralité des documents de la mission :
 * **Organisation :** Le cahier des charges, l'analyse des besoins métiers, le diagramme de Gantt, la carte mentale de mon profil et les mockups des tableaux de bords.
 * **Tableaux de bord (.pbix) :** Mon dashboard de Portfolio interactif et mon dashboard de Veille Technologique.
-* **Vidéo tuto :** Une vidéo explicative sur la formation à l'utilisation de l'outil de visualisation Power BI. https://drive.google.com/file/d/1zb-vjFZ60rJwt8_yCkdR5kvWE3Je6BW3/view?usp=sharing
+* **Vidéo tuto :** Une vidéo explicative sur la formation à l'utilisation de l'outil de visualisation Power BI. [🎬 Cliquez ici pour visionner ma vidéo (15 min)](https://drive.google.com/file/d/1zb-vjFZ60rJwt8_yCkdR5kvWE3Je6BW3/view?usp=sharing).
 * **Documentation :** Le guide technique expliquant la création et la mise en forme de graphiques sur Power BI.
 
 ## 🛠️ Outils & Technologies utilisés
